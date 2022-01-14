@@ -1,16 +1,23 @@
 ### Hi there 👋
 
-<!--
-**mar-celohenrique/mar-celohenrique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I have experience in software development using the entire Spring ecosystem, with a focus on Spring Cloud. I like to study new technologies, especially new frameworks, so as to propose technical alternatives to situations encountered on a daily basis and I'm always willing to work with new technologies.
 
-Here are some ideas to get you started:
+Technologies Highlights
+- Java
+- Spring Framework
+- Spring Security, Spring Cloud, Hibernate, JPA, Rect Native.
+- Pivotal Cloud Foundry
+- Tools: IntellijIDEA, Jenkins, Eclipse.
+- Javascript
+- TypeScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mar-celohenrique&hide=TeX&layout=compact)
+
+### Connect with me on Likedin
+<a href="https://www.linkedin.com/in/eng-marcelo-pereira/?locale=en_US">
+  <img align="left" alt="Marcelo Pereira on LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+
+
+![](https://visitor-badge.glitch.me/badge?page_id=mar-celohenrique)
+
