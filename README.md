@@ -10,6 +10,8 @@ Technologies Highlights
 - Tools: IntellijIDEA, Jenkins, Eclipse.
 - TypeScript
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mar-celohenrique&hide=TeX&layout=compact)
+
 ### Connect with me on Likedin
 <a href="https://www.linkedin.com/in/eng-marcelo-pereira/?locale=en_US">
   <img align="left" alt="Marcelo Pereira on LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
