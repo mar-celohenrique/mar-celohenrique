@@ -8,7 +8,6 @@ Technologies Highlights
 - Spring Security, Spring Cloud, Hibernate, JPA, Rect Native.
 - Pivotal Cloud Foundry
 - Tools: IntellijIDEA, Jenkins, Eclipse.
-- Javascript
 - TypeScript
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mar-celohenrique&hide=TeX&layout=compact)
