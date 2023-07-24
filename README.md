@@ -4,21 +4,14 @@ I have experience in software development using the entire Spring ecosystem, wit
 
 Technologies Highlights
 - Java
+- Kotlin
 - Spring Framework
 - Spring Security, Spring Cloud, Hibernate, JPA, Rect Native.
-- Pivotal Cloud Foundry
-- Tools: IntellijIDEA, Jenkins, Eclipse.
+- Golang
+- Tools: IntellijIDEA.
 - TypeScript
 
-![Marcelos's GitHub stats](https://github-readme-stats.vercel.app/api?username=mar-celohenrique&show_icons=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mar-celohenrique&layout=compact)
-
-### Connect with me on Likedin
+### Connect with me on Linkedin
 <a href="https://www.linkedin.com/in/eng-marcelo-pereira/?locale=en_US">
   <img align="left" alt="Marcelo Pereira on LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-
-
-![](https://visitor-badge.glitch.me/badge?page_id=mar-celohenrique)
-
